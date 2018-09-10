@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1527873749 source:c:\users\tolgoi\desktop\dem\task_sch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528205110 source:c:\users\dragos\desktop\task_sch\main.c
+	"function.h"
+
+1528229744 c:\users\dragos\desktop\task_sch\function.h
+	<stdio.h>
+	<stdlib.h>
+
+1528230464 source:c:\users\dragos\desktop\task_sch\function.c
+	"function.h"
+
+1528231912 source:c:\users\dragos\desktop\proiectad\task_sch\function.c
+	"function.h"
+
+1528231688 c:\users\dragos\desktop\proiectad\task_sch\function.h
+	<stdio.h>
+	<stdlib.h>
+
+1528231903 source:c:\users\dragos\desktop\proiectad\task_sch\main.c
+	"function.h"
+
+1528231912 source:c:\users\rares\onedrive\desktop\proiectad\code\function.c
+	"function.h"
+
+1528231688 c:\users\rares\onedrive\desktop\proiectad\code\function.h
+	<stdio.h>
+	<stdlib.h>
+
+1528231903 source:c:\users\rares\onedrive\desktop\proiectad\code\main.c
+	"function.h"
+
