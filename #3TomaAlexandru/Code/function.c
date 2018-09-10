@@ -29,7 +29,7 @@ void bubbleSort( task arr[], int n){
                 arr[j+1].finish= taskAux.finish;
                 arr[j+1].duration= taskAux.duration;
             }
-            ///\brief If the duration of 2 task is equal, we sort them by the starting time
+            ///\brief If the duration of 2 task is equal, we sort them by the starting time.
             else if(arr[j].duration == arr[j+1].duration)
             {
                 if(arr[j].start > arr[j+1].start)
