@@ -10,7 +10,7 @@ task taskuri[20];
 int main()
 {
 
-    /// In functionmain we call all the function declared befored bubblesort(), sortare() from function.h
+    /// In functionmain we call all the function declared befored bubblesort(), sortare() from function.h.
     int numberArray[1000];
     int n;
 
@@ -19,7 +19,7 @@ int main()
     ///\brief We open the file
     myFile = fopen("in.txt", "r");
 
-    ///\brief We check if it is something written in file, if it's now, we return NULL
+    ///\brief We check if it is something written in file, if it's now, we return NULL.
     if (myFile == NULL)
     {
         printf("Error Reading File\n");
